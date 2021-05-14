@@ -1,4 +1,6 @@
-### Hi there 👋
+### Malcolm Mason
+
+![Header Image](header.jpg)
 
 ## About Me 💻
 
