@@ -15,7 +15,7 @@ I am an aspiring Web Developer and am also a Database Designer/Developer. I am c
 - SSRS
 
 ## Projects 🖱️
-Website Portfolio: 
+Website Portfolio: ![portfolio](portfolio.JPG)
 
 ## Contact 📱
 
