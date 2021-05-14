@@ -16,7 +16,7 @@ I am an aspiring Web Developer and am also a Database Designer/Developer. I am c
 
 ## Projects 🖱️
 [Website Portfolio](https://malmason.github.io/masonprofile/) ![portfolio](portfolio.JPG)
-[Weather Dashboard](https://malmason.github.io/weather-api/)
+[Weather Dashboard](https://malmason.github.io/weather-api/) ![portfolio](weather.jpg)
 
 
 ## Contact 📱
