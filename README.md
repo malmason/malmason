@@ -14,8 +14,6 @@ I am an aspiring Web Developer and am also a Database Designer/Developer. I am c
 - Access/Excel VBA
 - SSRS
 
----
-
 ## Contact 📱
 
 - [Github](https://github.com/malmason) 
