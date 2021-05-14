@@ -4,9 +4,9 @@
 
 ## About Me 💻
 
-I am an aspiring Web Developer looking to start my own business designing websites. I am currently learning [Full Stack Web Development](https://bootcamp.uconn.edu/) at the UCONN School of Engineering in their 6 month Bootcamp program.
+I am an aspiring Web Developer and am also a Database Designer/Developer. I am currently learning [Full Stack Web Development](https://bootcamp.uconn.edu/) at the UCONN School of Engineering in their 6 month Bootcamp program.
 
-
+## Skills/Languages 🗒️
 
 
 ---
