@@ -7,8 +7,9 @@
 I am an aspiring Web Developer and a Microsoft Access/SQL Server Database Designer/Developer. I am currently learning [Full Stack Web Development](https://bootcamp.uconn.edu/) at the UCONN School of Engineering in their 6 month Bootcamp program.
 
 ## Skills/Languages 🗒️
-- HTML/CSS
-- Javascript
+- HTML ![HTML](HTML.png)
+- CSS ![CSS](css.png)
+- Javascript ![Javascript](js.png)
 - JQuery
 - Transact-SQL
 - Access/Excel VBA
