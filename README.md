@@ -15,7 +15,9 @@ I am an aspiring Web Developer and am also a Database Designer/Developer. I am c
 - SSRS
 
 ## Projects 🖱️
-[Website Portfolio:](https://malmason.github.io/masonprofile/) ![portfolio](portfolio.JPG)
+[Website Portfolio](https://malmason.github.io/masonprofile/) ![portfolio](portfolio.JPG)
+[Weather Dashboard](https://malmason.github.io/weather-api/)
+
 
 ## Contact 📱
 
