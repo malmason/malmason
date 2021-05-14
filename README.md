@@ -21,7 +21,7 @@ I am an aspiring Web Developer and am also a Database Designer/Developer. I am c
 - [Malcolm](mailto:malmason66@gmail.com) 📧
 
 ---
-
+&copy; 2021 Malcolm Mason
 <!--
 **malmason/malmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
