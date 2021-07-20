@@ -20,7 +20,7 @@ I have extensive experience developing databases with SQL Server as a backend an
 - SSRS
 
 ## Projects 🖱️
-[Website Portfolio](https://malmason.github.io/masonprofile/) ![portfolio](portfolio.JPG)
+[Website Portfolio](https://malmason.github.io/profile/) ![portfolio](mainpage.JPG)
 [Weather Dashboard](https://malmason.github.io/weather-api/) ![portfolio](weather.jpg)
 [Javascript Quiz](https://malmason.github.io/javascript-quiz/) ![portfolio](javascript.jpg)
 
